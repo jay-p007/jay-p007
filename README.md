@@ -1,15 +1,50 @@
-- 👋 Hi, I’m @jay-p007
-- 👀 I’m passionate about Generative AI, LLMs, and Python programming.
-- 🌱 I’m currently learning and working on Generative AI, including LLM fine-tuning, RAG systems, 
-         LangChain, vector databases, and cloud deployments (Render, GCP).
-- 💡 I have hands-on experience with models like Mistral, LLaMA, and embedding techniques for AI- 
-      powered applications.
-- 💞️ I’m looking to collaborate on AI projects, chatbot development, and real-world 
-     implementations 
-     of GenAI.
-- 📫 How to reach me: You can send me a message here on GitHub.
+# 👋 Hi, I’m Jayesh Patil
 
-<!---
-jay-p007/jay-p007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Generative AI Engineer focused on building **agentic AI systems**, multi-agent architectures, and LLM-powered decision intelligence platforms.
+
+---
+
+## 🧠 What I Work On
+
+- 🏗 Designing **LangGraph-based multi-agent systems**
+- 📄 Building intelligent **resume & contract evaluation systems**
+- 🔍 Developing RAG pipelines with vector databases
+- 🤖 Fine-tuning LLMs (Mistral, Zephyr) using LoRA & PEFT
+- 📊 Embeddings, retrieval systems & structured AI reasoning
+- ☁ Deploying AI systems on Render & GCP
+
+---
+
+## 🔬 Technical Focus
+
+- **LLMs**: Mistral, LLaMA, Gemini  
+- **Frameworks**: LangChain, LangGraph  
+- **Techniques**: RAG, Fine-tuning, PEFT, LoRA  
+- **Vector Databases**: ChromaDB  
+- **Deployment**: Docker, FastAPI, Streamlit  
+
+---
+
+## 🧩 Current Highlight Project
+
+### 🔹 Agentic Hiring & Contract Intelligence System
+A LangGraph-based multi-agent AI system where planner, evaluator, critic, and decision agents collaborate to autonomously screen candidates and analyze contract compliance with structured reasoning and confidence scoring.
+
+---
+
+## 🤝 Open to Collaborate On
+
+- Agentic AI workflows  
+- RAG systems  
+- LLM fine-tuning projects  
+- Real-world GenAI applications  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: (https://www.linkedin.com/in/jayesh-patil-848090180)
+
+---
+
+> I focus on building explainable, reliable AI systems that move beyond simple LLM calls into structured multi-agent reasoning architectures.
